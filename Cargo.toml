@@ -1,7 +1,15 @@
 [package]
 name = "wp-autop-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
+description = "Rust port of WordPress/Elementor package wp-autop-rs"
+license = "GPL-2.0"
+repository = "https://github.com/wp-rust/wp-autop-rs"
+homepage = "https://github.com/wp-rust/wp-autop-rs"
+documentation = "https://docs.rs/wp-autop-rs"
+keywords = ["wordpress", "elementor", "rust-port"]
+categories = ["text-processing"]
+readme = "README.md"
 
 [dependencies]
 fancy-regex = "0.18.0"
